@@ -5,21 +5,24 @@
 Here are some ideas to get you started:
 
 `� I’m currently working on ...`
-IVR-POS (Voice Based POS) and Visualizations of taxi trpis (Using ML algorithms to predict duration of taxi trips)
+IVR-POS (Voice Based POS) and Visualizations of taxi trpis (Using ML algorithms to predict duration of taxi trips)<br>
 `🌱 I’m currently learning ...`
-Deep learning and AI
+Deep learning and AI<br>
 `👯 I’m looking to collaborate on ...`
-Deep learning projects
+Deep learning projects<br>
 <!-- 
 - 🤔 I’m looking for help with ...
  💬 Ask me about ...
 --->
 `📫 How to reach me: ...`
-[Linkedin profile](www.linkedin.com/in/anish-ghiya)
-[Gmail](anishs.ghiya2018@gmail.com)
-[Phone Number](+91-6303298687)
+[Linkedin profile](www.linkedin.com/in/anish-ghiya)<br>
+[Gmail](anishs.ghiya2018@gmail.com)<br>
+[Phone Number](+91-6303298687)<br?
+<!--
 - 😄 Pronouns: ...
+--->
 `⚡ Fun fact: ...`
-Potterhead
 Love to cook :smile:
+Potterhead
+
 
