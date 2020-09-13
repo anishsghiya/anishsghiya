@@ -10,10 +10,12 @@ Here are some ideas to get you started:
 ##### Deep learning and AI
 `👯 I’m looking to collaborate on ...`
 ##### Deep learning projects
+<-- 
 - 🤔 I’m looking for help with ...
+-->
 - 💬 Ask me about ...
 `📫 How to reach me: ...`
-##### www.linkedin.com/in/anish-ghiya
+##### [Linkedin profile](www.linkedin.com/in/anish-ghiya)
 ##### anishs.ghiya2018@gmail.com
 - 😄 Pronouns: ...
 `⚡ Fun fact: ...`
