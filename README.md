@@ -14,7 +14,7 @@ Deep learning projects<br>
 - 🤔 I’m looking for help with ...
  💬 Ask me about ...
 --->
-`📫 How to reach me: ...`
+`📫 How to reach me: ...`<br>
 [Linkedin profile](www.linkedin.com/in/anish-ghiya)<br>
 [Gmail](anishs.ghiya2018@gmail.com)<br>
 [Phone Number](+91-6303298687)<br>
