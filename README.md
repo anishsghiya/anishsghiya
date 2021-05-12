@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 `� I’m currently working on ...`
-IVR-POS (Voice Based POS)<br>
+Auto-Encoders<br>
 `🌱 I’m currently learning ...`
 Deep learning and AI<br>
 `👯 I’m looking to collaborate on ...`
