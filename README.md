@@ -19,7 +19,7 @@ Deep learning projects<br>
  💬 Ask me about ...
 --->
 `📫 How to reach me: ...`<br>
-[Linkedin profile](www.linkedin.com/in/anish-ghiya)<br>
+[Linkedin profile](https://www.linkedin.com/in/anish-ghiya/)<br>
 [Gmail](anishs.ghiya2018@gmail.com)<br>
 [Phone Number](+91-6303298687)<br>
 [Kaggle](https://www.kaggle.com/anishghiya)<br>
