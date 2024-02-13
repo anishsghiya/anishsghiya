@@ -208,9 +208,12 @@
  
  ## GitHub Streak and Stats Card
 <!--- ![GitHub Streak Card](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact) (https://github-readme-streak-stats.herokuapp.com/?user=AnshMittal1811&count_private=true )  ![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMittal1811&count_private=true&layout=compact)  ](https://git.io/streak-stats)  --->
-| ![GitHub Streak](https://streak-stats.demolab.com/?user=anishsghiya&count_private=true&layout=compact) | ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishsghiya&count_private=true) | 
-|:------------------------:|:------------------------:|  
+![GitHub Streak](https://streak-stats.demolab.com/?user=anishsghiya&count_private=true&layout=compact)
+<!-- ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishsghiya&count_private=true) | 
+|:------------------------:|
 
+:------------------------:|  
+-->
  
 ## 🏆Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anishsghiya&theme=nord&no-frame=false&no-bg=false&margin-w=4)  
